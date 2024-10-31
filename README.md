@@ -3,7 +3,6 @@
 This project contains a Python-based implementation of a Genetic Algorithm to solve the **Traveling Salesman Problem (TSP)**. The entire implementation, including various methods (selection, crossover, and replacement), is in a single file: `GA_TSV_With_All_Methods_Types.py`.
 
 ## Features
-- Various representation methods for TSP solutions.
 - Different selection techniques (e.g., tournament, roulette wheel).
 - Multiple crossover options (e.g., ordered, partially matched).
 - Replacement mechanisms for evolution control.
@@ -22,8 +21,4 @@ This project contains a Python-based implementation of a Genetic Algorithm to so
 ## Usage
 Provide details here about any specific input parameters or configurations the script requires.
 
-## Contributing
-Contributions are welcome. Please read `CONTRIBUTING.md` for guidelines.
 
-## License
-[MIT License](LICENSE)
